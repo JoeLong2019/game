@@ -1,0 +1,27 @@
+
+body {
+  background-color: black;
+ color: rgb(0, 0, 0);
+ text-align: center;
+}
+ h1 {
+     color: white
+position: absolute;
+width:1000px;
+height: 650.29px;
+
+background: linear-gradient(180deg, #F2F2F2 0%, rgba(61, 34, 138, 0.16) 100%);
+transform: rotate(0.07deg);
+}
+
+table{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 1112px;
+height: 74px;
+
+background: radial-gradient(750.00px at 30% 5%, #2F80ED 30%, rgba(47, 128, 237, 0) 100%);
+mix-blend-mode: hue;
+} 
