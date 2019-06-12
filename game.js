@@ -1,14 +1,14 @@
 var config = {
     type:Phaser.AUTO,
-    Width:800,
+    width:1600,
     height:600,
-    Physics: {
-        default: 'arcade',
+    physics: {
+        default:'arcade',
         arcade: {
             gravity: {y : 200}
         }
     },
-    scene: [ exam1 ]
+    scene: [exam1, exam2 ]
 };
 
 var game = new Phaser.Game(config);
