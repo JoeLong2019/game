@@ -7,7 +7,7 @@ var config = {
         default:'arcade',
         arcade: {
             debug: false,
-            gravity: {x : 0}, // the game gravity
+            gravity: {x : 15}, // the game gravity
             setGameBounds : {0 : 0},
         }
     },
