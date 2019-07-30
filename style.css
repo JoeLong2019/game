@@ -1,25 +1,3 @@
-
-body {
-  background-color: black;
- color: rgb(0, 0, 0);
- text-align: center;
+body{
+    background: lightslategray
 }
-
-h1 {
-    color: white
-position: absolute;
-width: AUTO;
-height: 650.29px;
-background: linear-gradient(180deg, #F2F2F2 0%, rgba(61, 34, 138, 0.16) 100%);
-transform: rotate(0.07deg);
-}
-
-
-table{
-    /* Rectangle 2 */
-position: absolute;
-width: 1112px;
-height: 74px;
-background: radial-gradient(1000.00px at 30% 5%, #2F80ED 30%, rgba(47, 128, 237, 0) 100%);
-mix-blend-mode: hue;
-} 
